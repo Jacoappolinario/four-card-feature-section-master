@@ -28,7 +28,7 @@ p {
 .description h1 {
   font-size: 2.25rem;
   font-weight: 275;
-  letter-spacing: 0.1563rem;
+  letter-spacing: 0.01563rem;
   color: #4d4f62;
   text-align: center;
 }
@@ -36,7 +36,7 @@ p {
 .description h2 {
   font-size: 2.25rem;
   font-weight: 600;
-  letter-spacing: 0.1563rem;
+  letter-spacing: 0.01563rem;
   color: #4d4f62;
   text-align: center;
   margin-bottom: 13px;
